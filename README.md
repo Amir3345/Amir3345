@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Hossein Behzad</h1>
-<h3 align="center">I'm a currently computer programing and analysis student at Seneca College</h3>
+<h3 align="center">I'm a recent grad @Seneca College</h3>
 
 - 📫 How to reach me **Amirhossein.behzad@gmail.com**
 
